@@ -1,0 +1,5 @@
+Redis interview questions -> https://www.geeksforgeeks.org/top-25-redis-interview-questions/
+
+
+kafka vs redis -> https://www.geeksforgeeks.org/redis-vs-kafka/,
+		  https://chatgpt.com/share/672a7563-51c8-800d-b6f5-95f90f3cf89c
